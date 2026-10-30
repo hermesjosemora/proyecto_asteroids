@@ -48,3 +48,4 @@ Luego visita `http://localhost:3000`.
 - Asteroides se parten en fragmentos más pequeños al ser destruidos
 - Partículas de explosión al destruir asteroides
 # proyecto_asteroids
+# proyecto_asteroids
