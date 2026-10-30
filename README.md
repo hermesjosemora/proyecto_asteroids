@@ -49,3 +49,4 @@ Luego visita `http://localhost:3000`.
 - Partículas de explosión al destruir asteroides
 # proyecto_asteroids
 # proyecto_asteroids
+# proyecto_asteroids
